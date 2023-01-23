@@ -10,7 +10,7 @@
 </br>
 <div >
   <a href="https://github.com/CleissonVieira">
-   <img height="200em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CleissonVieira&&show_icons=true&theme=aura&include_all_commits=true" /> &ensp;
+   <img height="140em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CleissonVieira&&show_icons=true&theme=aura&include_all_commits=true" /> &ensp;
    <img height="200em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CleissonVieira&layout=compact&langs_count=10&theme=aura" />
   </a>
 </div>  
